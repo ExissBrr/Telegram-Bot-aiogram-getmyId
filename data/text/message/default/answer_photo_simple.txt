@@ -1,0 +1,2 @@
+<b>User id</b>: <code>{user_id}</code>
+<b>Document id</b>: <code>{document_id}</code>

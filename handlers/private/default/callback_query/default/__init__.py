@@ -1,0 +1,1 @@
+from .clicker_game import dp
